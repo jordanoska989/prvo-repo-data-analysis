@@ -56,3 +56,6 @@ s = insert_sale(sesija, 2, 3)
 sesija.add(s)
 sesija.commit()"""
 
+print("Novi promeni vo nov branch")
+ime = input("Vnesete go vaseto ime")
+print(f"Zdravo {ime}")
